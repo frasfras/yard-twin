@@ -1,0 +1,6 @@
+{
+  "name": "Agent Chat Client",
+  "description": "A high-performance interactive chat client featuring a modern dark zinc UI with glowing violet accents, markdown support, and session restoration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

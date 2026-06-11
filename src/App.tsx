@@ -112,10 +112,9 @@ const QUICK_PROMPTS_MAP: { [key: string]: string[] } = {
     "show congested areas"
   ],
   "default": [
-    "Hi there! Introduce your core directives.",
-    "Can you help me formulate clean technical commands?",
-    "Explain how custom payloads and metadata operate.",
-    "Draft a clean documentation summary for our session."
+    "which docks are free",
+    'find vehicles with status "waiting"',
+    "show congested areas"
   ]
 };
 
